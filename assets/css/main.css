@@ -1587,6 +1587,12 @@
 			cursor: default;
 		}
 
+		.icon.featured > img{
+			max-width: 110px;
+			max-height: 90px
+
+		}
+
 			.icon.featured:before {
 				font-size: 6em;
 			}
