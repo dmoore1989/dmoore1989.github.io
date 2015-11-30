@@ -1240,6 +1240,12 @@
 		border: 0;
 	}
 
+	/* Gotcha */
+
+	form #gotcha {
+		display:none;
+	}
+
 /* Tables */
 
 	table {
@@ -2110,5 +2116,6 @@
 				#copyright li {
 					display: block;
 				}
+
 
 	}
